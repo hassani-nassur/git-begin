@@ -3,5 +3,5 @@
 3- git comit -m " un message indicatif à laisser "
 4- git push  
 
-NB: le push c'est pour confirement l'envoi du des fichiers aux depots ainsi
+NB: le push c'est pour confirmer l'envoi des fichiers aux depots ainsi
 les dernier modification serons enregistrez  dans le repository 
